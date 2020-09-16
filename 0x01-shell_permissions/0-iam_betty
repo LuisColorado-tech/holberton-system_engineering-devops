@@ -1,3 +1,4 @@
 #!/bin/bash
-usermod -l betty vagrant
+su -betty
+
 
