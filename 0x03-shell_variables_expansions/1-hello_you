@@ -1,2 +1,4 @@
 #!/bin/bash
-alias id="echo hello user"
+echo "hello" $USER
+
+
