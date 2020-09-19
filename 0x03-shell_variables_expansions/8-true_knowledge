@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($luis+128))
+echo $(($TRUEKNOWLEDGE+128))
