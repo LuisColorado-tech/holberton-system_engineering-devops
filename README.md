@@ -1,1 +1,1 @@
-#0x00. Shell, basicsd
+#0x00. Shell, basicsdcd
